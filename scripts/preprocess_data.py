@@ -56,7 +56,7 @@ def save_sequences(sequences, output_path):
     return sequences_array
 
 def main():
-    # Путь к PGN файлу (скачай маленький тестовый файл)
+    # Путь к PGN файлу 
     pgn_path = "data/raw/lichess_games.pgn"
     
     # Проверяем существование файла
